@@ -1517,6 +1517,10 @@ blockquote {
     display: inline-block;
 }
 
+footer .button {
+    margin: 0;
+}
+
 /* Scroll Up */
 
 #scrollUp {
